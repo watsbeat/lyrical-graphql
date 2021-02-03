@@ -13,17 +13,16 @@ _This is an extension of a starter project from a GraphQL course on Udemy.com_
 
 ## Setup Instructions
 
-Database:
-
-- Create a MongoDB Cloud account and follow instructions to get started
-- Replace `MONGO_URI` value with your own URI
-
 - Clone the repo
 - `npm i` to install dependencies
 - `npm run dev` to start to application
 - Open in browser: `http://localhost:4000/#/`
 - Experiment with the GraphiQL tool at `http://localhost:4000/graphql`
 
+**Database:**
+
+- Create a MongoDB Cloud account and follow instructions to get started
+- Replace `MONGO_URI` value with your own URI
 ## GraphiQL Queries
 
 ```graphql
